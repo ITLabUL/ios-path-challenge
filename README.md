@@ -10,83 +10,36 @@ Este repositorio se creó con el propósito de brindar apoyo a todos los **estud
 Es por ello que te recomiendo ver este video de cómo instalar XCode, el IDE que te acompañará en todo este proceso (tu primer reto es encontrar dónde está el video jejeje)
 > <a href="https://www.youtube.com/watch?v=Gg2a8-hoFVw"><img src="https://cdn.vox-cdn.com/thumbor/BAJpMVZkajymTbQBRWDcU6Fv6v4=/0x0:838x470/1200x800/filters:focal(352x168:486x302)/cdn.vox-cdn.com/uploads/chorus_image/image/53221635/John_Cena.0.jpg" style="height: 50%; width:50%; display: block; margin: 0 auto"/></a>
 
-
 ## Roadmap
 El **roadmap incluye lo esencial para realizar el mantenimiento de nuestras aplicaciones** en producción y desarrollo (09-2023). Sin embargo, es importante destacar que la simplicidad del plan no implica que será una tarea fácil o rápida. El plan de aprendizaje está diseñado para permitirte **prepararte en un período de tres semanas**, con la meta de completar tus **dos exámenes de ingreso en 1 semana** 😱😱😱
 
-### 1️⃣ Swift: Tu principal herramienta
-Para programar aplicaciones iOS debes aprender el lenguaje de programación Swift, el cual tiene un parecido bastante grande a Python y Kotlin. Aprenderás los fundamentos y el paradigma de programación OOP. Te dejo unos videos para que puedas empezar tu recorrido!
-
-#### Videos
-* [Swift in 100 Seconds](https://www.youtube.com/watch?v=nAchMctX4YA)
-* [Learn the Essentials of Swift in one hour](https://www.youtube.com/watch?v=n5X_V81OYnQ)
-* [SWIFT: Curso Swift para PRINCIPIANTES Xcode PLAYGROUNDS en Español - Swift desde cero Español #1](https://www.youtube.com/watch?v=mQTLSf76jS4&list=PLeTOFRUxkMcozbUpMiaHRy8_GjzJ_9tyi&index=1)
-* [SWIFT 5: Curso de PROGRAMACION desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=P6ko_I5GHbs&t=5935s)
-* [Swift Programming Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=8Xg7E9shq0U&t=24449s)
-#### Documentación
-* [Swift en Apple Developer](https://developer.apple.com/swift/)
-* [Swift.org sitio web oficial](https://www.swift.org/)
 
 
-a
-a
-a
-a
-a
-
-a
-a
-a
-a
-a
-a
-a
-
-a
-a
-a
-a
-a
-a
-a
-
-a
-a
-a
-
-a
-a
-a
-a
-a
-
-a
-a
-a
-a
-a
-a
-a
-
-a
-a
-a
-a
-a
-a
-a
-
-a
-a
-a
-### 2️⃣ Editores de código: Xcode, Swift Playgrounds, Online Swift Playground
-Puedes usar estos tres editores de código para aprender Swift, eso sí, para crear aplicaciones no podrás hacerlo con el editor online.
+### ① Entorno de Desarrollo Integrado
+Si eres nuevo en el mundo de la programación de aplicaciones móviles para uno de los dos gigantes de los celulares (Android y iOS), el nombre del título de esta sección seguro es desconocido para tí. "Entorno de Desarrollo Integrado" o "Integrated Development Environment" es el significado de IDE, que en nuestro caso será el tan preciado, pero odiado cuando no puedes hacer algo, **XCode**. Te recomiendo mirar estos videos para conocer un poco más tu futuro _canvas_ y saber cómo configurarlo 👻.
 
 * [Xcode](https://developer.apple.com/xcode/)
-* [Swift Playgrounds](https://www.apple.com/swift/playgrounds/)
-* [Swift Playground online](http://online.swiftplayground.run/)
-* [TUTORIAL Xcode](https://youtu.be/MyzZnIR5gC4)
-* [TUTORIAL Swift Playgrounds](https://youtu.be/8DCXEyL-GH4)
+* [¿Cómo descargar e instalar XCODE en mac? 💻 [2022]](https://www.youtube.com/watch?v=Gg2a8-hoFVw&t=1s)
+
+> #### ⚠️ **Comentario del editor:** 
+> Hola! Te recomiendo que solo instales XCode en tu mac y nada más. Cuando ya hayas progresando en el path de aprendizaje, puedo recomendarte instalar VSCode y algunas otras apps que te ayudarán a la visualización de tu trabajo de forma más 'cruda'.
+
+
+### ② Swift: Tu principal herramienta
+Para programar aplicaciones iOS debes aprender el lenguaje de programación Swift, el cual tiene un parecido bastante grande a Python y Kotlin. Aprenderás los fundamentos y el paradigma de programación OOP. Te dejo unos videos para que puedas empezar tu recorrido!
+
+|**Idioma**|**Nombre del video**|
+|:---:|---|
+|Inglés|[Swift in 100 Seconds](https://www.youtube.com/watch?v=nAchMctX4YA)|
+|Inglés|[Learn the Essentials of Swift in one hour](https://www.youtube.com/watch?v=n5X_V81OYnQ)|
+|Inglés|[SWIFT: Curso Swift para PRINCIPIANTES Xcode PLAYGROUNDS en Español - Swift desde cero Español #1](https://www.youtube.com/watch?v=mQTLSf76jS4&list=PLeTOFRUxkMcozbUpMiaHRy8_GjzJ_9tyi&index=1)|
+|Español|[SWIFT 5: Curso de PROGRAMACION desde CERO para PRINCIPIANTES](https://www.youtube.com/watch?v=P6ko_I5GHbs&t=5935s)|
+|Inglés|[Swift Programming Tutorial – Full Course for Beginners](https://www.youtube.com/watch?v=8Xg7E9shq0U&t=24449s)|
+
+| **Idioma** | **Nombre de la documentación** |
+|:---:|---|
+|   Inglés   | [Swift en Apple Developer](https://developer.apple.com/swift/)       |
+|   Inglés   | [Swift.org sitio web oficial](https://www.swift.org/) |
 
 También debes comenzar a conocer otros conceptos importantes dentro de la ingeniería de software:
 
@@ -99,6 +52,60 @@ También debes comenzar a conocer otros conceptos importantes dentro de la ingen
 * Programación imperativa.
 * Programación declarativa.
 * Programación funcional.
+
+
+
+a
+a
+a
+a
+a
+
+a
+a
+a
+a
+a
+a
+a
+
+a
+a
+a
+a
+a
+a
+a
+
+a
+a
+a
+
+a
+a
+a
+a
+a
+
+a
+a
+a
+a
+a
+a
+a
+
+a
+a
+a
+a
+a
+a
+a
+
+a
+a
+a
 
 ### 3️⃣ Librerías y Frameworks: UIKit y SwiftUI
 Es hora de comenzar a trabajar con las librerías de código que nos proporciona Apple para crear Apps. Nos centraremos en las especializadas en creación de interfaces de usuario (UI): UIKit y SwiftUI (el nuevo framework presentado en 2019 diseñado para poco a poco sustituir a UIKit).
