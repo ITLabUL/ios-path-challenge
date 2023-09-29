@@ -105,9 +105,6 @@ Hay multiples arquitecturas que nos pueden servir para crear aplicaciones en iOS
 |:---:|---|
 |   Español  | [SwiftUI Quiz App with MVVM complete explanation](https://www.youtube.com/watch?v=ETb_Wtitg7U) |
 |   Español  | [Build a SwiftUI Pokedex app for iOS 15 (Clean MVVM Architecture)](https://www.youtube.com/watch?v=wwOOwhsPKpU) |
-|   Español  | []() |
-|   Español  | []() |
-|   Español  | []() |
 
 ## ⓻ Consumo de servicios
 Es necesario que sepas consumir servicios web, por ello debes aprender los siguiente conceptos.
